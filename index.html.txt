@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sitemap for Maîtrise Français</title>
+</head>
+<body>
+    <h1>Welcome to Maîtrise Français Sitemap</h1>
+    <p>This page is only here to host the sitemap file. You can access the sitemap directly <a href="sitemap.xml">here</a>.</p>
+</body>
+</html>
